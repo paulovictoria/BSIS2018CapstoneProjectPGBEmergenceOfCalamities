@@ -17,4 +17,4 @@ Thesis Adviser
 **April 2018**
 
 
-**ALL RIGHT RESERVED**
+**ALL RIGHTS RESERVED**
