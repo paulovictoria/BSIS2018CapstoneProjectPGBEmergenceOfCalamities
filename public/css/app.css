@@ -1,0 +1,119 @@
+[class*="fontawesome-"]:before {
+  font-family: "FontAwesome", sans-serif;
+  font-size: 1.5em;
+}
+
+.mdl-navigation__link:hover {
+  text-decoration: none !important;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif !important;
+}
+
+.md-container {
+  height: 100vh;
+  width: 100%;
+  padding: 7%;
+}
+
+.md-container .md-float__right {
+  float: right;
+}
+
+.md-container .md-form--padding {
+  padding: 3% !important;
+}
+
+.md-container .mdlext-selectfield {
+  width: 100%;
+}
+
+.page-container {
+  min-height: 300px;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.md-drawer {
+  width: 230px;
+  max-width: calc(100vw - 125px);
+}
+
+.md-content {
+  padding: 16px;
+}
+
+.side-nav--width {
+  width: 225px !important;
+}
+
+.radial-progress-container {
+  margin: 0 auto;
+}
+
+.padding {
+  padding: 10px !important;
+}
+
+.flex {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.mdl-layout__header {
+  background-color: #448aff !important;
+}
+
+.mdl-layout__header .mdl-bold {
+  font-weight: bold;
+}
+
+.btn-new--color {
+  background-color: #448aff !important;
+  color: white !important;
+}
+
+.btn-new--red {
+  background-color: #ff5252 !important;
+  color: white !important;
+}
+
+.fixed-btn {
+  position: absolute !important;
+  right: 10px !important;
+  top: 10px !important;
+}
+
+.md-width {
+  width: 50% !important;
+  margin: 0 auto !important;
+}
+
+svg.report-modal--icon {
+  height: 2em !important;
+  width: 3em !important;
+  margin-top: 10px !important;
+}
+
+.custom--color {
+  background-color: #fafafa;
+}
+
+.no-list {
+  list-style: none;
+}
+
+button.search-btn {
+  padding: -8px !important;
+}
+
+.sweet-modal-overlay {
+  background: none !important;
+}
+
+.btn--margin {
+  margin-top: 20px !important;
+}

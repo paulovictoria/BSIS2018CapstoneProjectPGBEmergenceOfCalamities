@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1730750,
+    "url": "api/seven_day_forecast/381",
+    "name": "Angat",
+    "location": "Poblacion, Angat, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 121.0209,
+      "lat": 14.938
+    }
+  },
+  {
+    "id": 1702051,
+    "url": "api/seven_day_forecast/544",
+    "name": "Balagtas",
+    "location": "Borol 1, Balagtas, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.913,
+      "lat": 14.8228
+    }
+  },
+  {
+    "id": 1727996,
+    "url": "api/seven_day_forecast/728",
+    "name": "Baliuag",
+    "location": "Benigno S. Aquino Ave, Baliuag, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.8843,
+      "lat": 14.9672
+    }
+  },
+  {
+    "id": 1724490,
+    "url": "api/seven_day_forecast/1189",
+    "name": "Bocaue",
+    "location": "Poblacion, Bocaue, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9358,
+      "lat": 14.8057
+    }
+  },
+  {
+    "id": 1723071,
+    "url": "api/seven_day_forecast/1331",
+    "name": "Bulakan",
+    "location": "Poblacion, Bulacan, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.8799,
+      "lat": 14.7943
+    }
+  },
+  {
+    "id": 1722268,
+    "url": "api/seven_day_forecast/1219",
+    "name": "Bustos",
+    "location": "Bustos Municipal Hall, Municipal Road, Bustos",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9276,
+      "lat": 14.9379
+    }
+  },
+  {
+    "id": 1720038,
+    "url": "api/seven_day_forecast/322",
+    "name": "Calumpit",
+    "location": "Balungao, Calumpit, Bulacan",
+    "coord": {
+      "lng": 120.76667,
+      "lat": 14.9
+    }
+  },
+  {
+    "id": 1714446,
+    "url": "api/seven_day_forecast/604",
+    "name": "Dona Remedios Trinidad",
+    "location": "Poblacion, Dona Remedios Trinidad, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 121.2168,
+      "lat": 15.1143
+    }
+  },
+  {
+    "id": 1712532,
+    "url": "api/seven_day_forecast/161",
+    "name": "Guiguinto",
+    "location": "Poblacion, Guiguinto, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.8856,
+      "lat": 14.837
+    }
+  },
+  {
+    "id": 1711982,
+    "url": "api/seven_day_forecast/1188",
+    "name": "Hagonoy",
+    "location": "Poblacion, Hagonoy, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.735,
+      "lat": 14.7919
+    }
+  },
+  {
+    "id": 1702540,
+    "url": "api/seven_day_forecast/609",
+    "name": "Malolos",
+    "location": "San Vicente, Malolos, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.816,
+      "lat": 14.8527
+    }
+  },
+  {
+    "id": 1700919,
+    "url": "api/seven_day_forecast/1598",
+    "name": "Marilao",
+    "location": "Lias, Marilao, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9704,
+      "lat": 14.7728
+    }
+  },
+  {
+    "id": 1699802,
+    "url": "api/seven_day_forecast/1518",
+    "name": "Meycauayan",
+    "location": "Poblacion, Meycauayan City, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9739,
+      "lat": 14.7499
+    }
+  },
+  {
+    "id": 1697497,
+    "url": "api/seven_day_forecast/1111",
+    "name": "Norzagaray",
+    "location": "Brgy. Bigte, Quirino Highway, Norzagaray, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 121.1446,
+      "lat": 14.8745
+    }
+  },
+  {
+    "id": 1697377,
+    "url": "api/seven_day_forecast/983",
+    "name": "Obando",
+    "location": "J.P Rizal St, Obando, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9253,
+      "lat": 14.7263
+    }
+  },
+  {
+    "id": 1695463,
+    "url": "api/seven_day_forecast/1246",
+    "name": "Pandi",
+    "location": "S Osmena St, Pandi, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9593,
+      "lat": 14.8757
+    }
+  },
+  {
+    "id": 1694862,
+    "url": "api/seven_day_forecast/332",
+    "name": "Paombong",
+    "location": "Poblacion, Paombong, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.7867,
+      "lat": 14.8103
+    }
+  },
+  {
+    "id": 1693256,
+    "url": "api/seven_day_forecast/342",
+    "name": "Plaridel",
+    "location": "Poblacion, Plaridel, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.8671,
+      "lat": 14.8815
+    }
+  },
+  {
+    "id": 1692565,
+    "url": "api/seven_day_forecast/406",
+    "name": "Pulilan",
+    "location": "Poblacion, Pulilan, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.8384,
+      "lat": 14.9325
+    }
+  },
+  {
+    "id": 1689835,
+    "url": "api/seven_day_forecast/1118",
+    "name": "San Ildefonso",
+    "location": " E Viudez St, San Ildefonso, 3010 Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 121.0106,
+      "lat": 15.0418
+    }
+  },
+  {
+    "id": 1689395,
+    "url": "api/seven_day_forecast/1170",
+    "name": "San Jose del Monte",
+    "location":
+      "San Ignacio, Bgy. Poblacion 1, City of San Jose del Monte, Bulacan, San Jose del Monte City, 3024 Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 121.1023,
+      "lat": 14.8206
+    }
+  },
+  {
+    "id": 1688954,
+    "url": "api/seven_day_forecast/192",
+    "name": "San Miguel",
+    "location": "Victor St, San Miguel, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 121.0106,
+      "lat": 15.1664
+    }
+  },
+  {
+    "id": 1703702,
+    "url": "api/seven_day_forecast/1534",
+    "name": "San Rafael",
+    "location": "Sampaloc San Rafael, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9532,
+      "lat": 14.9985
+    }
+  },
+  {
+    "id": 1688042,
+    "url": "api/seven_day_forecast/33",
+    "name": "Santa Maria",
+    "location":
+      "Sta. Maria Municipal Hall, R Mercado Street, Santa Maria, Bulacan",
+    "country": "PH",
+    "coord": {
+      "lng": 120.9991,
+      "lat": 14.8463
+    }
+  }
+]

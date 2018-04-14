@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1730750,
+    "url": "api/seven_day_forecast/381",
+    "name": "Angat",
+    "country": "PH",
+    "formed": "14.9380, 121.0209",
+    "coord": {
+      "lng": 121.0209,
+      "lat": 14.938
+    }
+  },
+  {
+    "id": 1702051,
+    "url": "api/seven_day_forecast/544",
+    "name": "Balagtas",
+    "country": "PH",
+    "formed": "14.8228, 120.9130",
+    "coord": {
+      "lng": 120.913,
+      "lat": 14.8228
+    }
+  },
+  {
+    "id": 1727996,
+    "url": "api/seven_day_forecast/728",
+    "name": "Baliuag",
+    "country": "PH",
+    "formed": "14.9672, 120.8843",
+    "coord": {
+      "lng": 120.8843,
+      "lat": 14.9672
+    }
+  },
+  {
+    "id": 1724490,
+    "url": "api/seven_day_forecast/1189",
+    "name": "Bocaue",
+    "country": "PH",
+    "formed": "14.8057, 120.9358",
+    "coord": {
+      "lng": 120.9358,
+      "lat": 14.8057
+    }
+  },
+  {
+    "id": 1723071,
+    "url": "api/seven_day_forecast/1331",
+    "name": "Bulakan",
+    "country": "PH",
+    "formed": "14.7943, 120.8799",
+    "coord": {
+      "lng": 120.8799,
+      "lat": 14.7943
+    }
+  },
+  {
+    "id": 1722268,
+    "url": "api/seven_day_forecast/1219",
+    "name": "Bustos",
+    "country": "PH",
+    "formed": "14.9379, 120.9276",
+    "coord": {
+      "lng": 120.9276,
+      "lat": 14.9379
+    }
+  },
+  {
+    "id": 1720038,
+    "url": "api/seven_day_forecast/322",
+    "name": "Calumpit",
+    "country": "PH",
+    "formed": "14.9, 120.76667",
+    "coord": {
+      "lng": 120.76667,
+      "lat": 14.9
+    }
+  },
+  {
+    "id": 1714446,
+    "url": "api/seven_day_forecast/604",
+    "name": "Doña Remedios Trinidad",
+    "country": "PH",
+    "formed": "15.1143, 121.2168",
+    "coord": {
+      "lng": 121.2168,
+      "lat": 15.1143
+    }
+  },
+  {
+    "id": 1712532,
+    "url": "api/seven_day_forecast/161",
+    "name": "Guiguinto",
+    "country": "PH",
+    "formed": "14.8370, 120.8856",
+    "coord": {
+      "lng": 120.8856,
+      "lat": 14.837
+    }
+  },
+  {
+    "id": 1711982,
+    "url": "api/seven_day_forecast/1188",
+    "name": "Hagonoy",
+    "country": "PH",
+    "formed": "14.7919, 120.7350",
+    "coord": {
+      "lng": 120.735,
+      "lat": 14.7919
+    }
+  },
+  {
+    "id": 1700919,
+    "url": "api/seven_day_forecast/1598",
+    "name": "Marilao",
+    "country": "PH",
+    "formed": "14.7728, 120.9704",
+    "coord": {
+      "lng": 120.9704,
+      "lat": 14.7728
+    }
+  },
+  {
+    "id": 1699802,
+    "url": "api/seven_day_forecast/1518",
+    "name": "Meycauayan",
+    "country": "PH",
+    "formed": "14.7499, 120.9739",
+    "coord": {
+      "lng": 120.9739,
+      "lat": 14.7499
+    }
+  },
+  {
+    "id": 1697497,
+    "url": "api/seven_day_forecast/1111",
+    "name": "Norzagaray",
+    "country": "PH",
+    "formed": "14.8745, 121.1446",
+    "coord": {
+      "lng": 121.1446,
+      "lat": 14.8745
+    }
+  },
+  {
+    "id": 1697377,
+    "url": "api/seven_day_forecast/983",
+    "name": "Obando",
+    "country": "PH",
+    "formed": "14.7263, 120.9253",
+    "coord": {
+      "lng": 120.9253,
+      "lat": 14.7263
+    }
+  },
+  {
+    "id": 1695463,
+    "url": "api/seven_day_forecast/1246",
+    "name": "Pandi",
+    "country": "PH",
+    "formed": "14.8757, 120.9593",
+    "coord": {
+      "lng": 120.9593,
+      "lat": 14.8757
+    }
+  },
+  {
+    "id": 1694862,
+    "url": "api/seven_day_forecast/332",
+    "name": "Paombong",
+    "country": "PH",
+    "formed": "14.8103, 120.7867",
+    "coord": {
+      "lng": 120.7867,
+      "lat": 14.8103
+    }
+  },
+  {
+    "id": 1693256,
+    "url": "api/seven_day_forecast/342",
+    "name": "Plaridel",
+    "country": "PH",
+    "formed": "14.8815, 120.8671",
+    "coord": {
+      "lng": 120.8671,
+      "lat": 14.8815
+    }
+  },
+  {
+    "id": 1692565,
+    "url": "api/seven_day_forecast/406",
+    "name": "Pulilan",
+    "country": "PH",
+    "formed": "14.9325, 120.8384",
+    "coord": {
+      "lng": 120.8384,
+      "lat": 14.9325
+    }
+  },
+  {
+    "id": 1689835,
+    "url": "api/seven_day_forecast/1118",
+    "name": "San Ildefonso",
+    "country": "PH",
+    "formed": "15.0418, 121.0106",
+    "coord": {
+      "lng": 121.0106,
+      "lat": 15.0418
+    }
+  },
+  {
+    "id": 1689395,
+    "url": "api/seven_day_forecast/1170",
+    "name": "San Jose del Monte",
+    "country": "PH",
+    "formed": "14.8206, 121.1023",
+    "coord": {
+      "lng": 121.1023,
+      "lat": 14.8206
+    }
+  },
+  {
+    "id": 1688954,
+    "url": "api/seven_day_forecast/192",
+    "name": "San Miguel",
+    "country": "PH",
+    "formed": "15.1664, 121.0106",
+    "coord": {
+      "lng": 121.0106,
+      "lat": 15.1664
+    }
+  },
+  {
+    "id": 1703702,
+    "url": "api/seven_day_forecast/1534",
+    "name": "San Rafael",
+    "country": "PH",
+    "formed": "14.9985, 120.9532",
+    "coord": {
+      "lng": 120.9532,
+      "lat": 14.9985
+    }
+  },
+  {
+    "id": 1688042,
+    "url": "api/seven_day_forecast/33",
+    "name": "Santa Maria",
+    "country": "PH",
+    "formed": "14.8463, 120.9991",
+    "coord": {
+      "lng": 120.9991,
+      "lat": 14.8463
+    }
+  },
+  {
+    "id": 1702540,
+    "url": "api/seven_day_forecast/609",
+    "name": "Malolos",
+    "country": "PH",
+    "formed": "14.8527, 120.8160",
+    "coord": {
+      "lng": 120.816,
+      "lat": 14.8527
+    }
+  }
+]
