@@ -10,7 +10,7 @@
 
 **Guided by:**
 
-Engr. Rosemarie S. Guirre
+Engr. Rosemarie S. Guirre, MIT
 
 Thesis Adviser
 
