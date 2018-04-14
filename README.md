@@ -6,7 +6,7 @@
 
 [Gan, Gieselle V.](https://github.com/giesellegan)
 
-[Santiago, Redel V.](https://github.com/redel30)
+[Santiago, Redel P.](https://github.com/redel30)
 
 **Guided by:**
 
